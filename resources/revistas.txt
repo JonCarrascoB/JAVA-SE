@@ -1,0 +1,2 @@
+La revista de titulo Hola, con ISBN de 1234567898, con un numero de paginas de 50 y formato Papel
+La revista de titulo Biogune, con ISBN de 1234567899, con un numero de paginas de 25 y formato Digital
